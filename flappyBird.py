@@ -6,7 +6,7 @@ import time
 import random
 import  queue
 
-BUF_SIZE = 10
+BUF_SIZE = 1
 q1 = queue.Queue(BUF_SIZE)
 q2 = queue.Queue(BUF_SIZE)
 
